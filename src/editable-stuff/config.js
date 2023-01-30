@@ -38,7 +38,7 @@ const mainBody = {
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
 //     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+//         resume: "https://drive.google.com/file/d/1jFdiLfDp3-ti7v9asyKm8qKxi2UBLksL/view?usp=sharing",
 
 const about = {
   show: true,
@@ -48,7 +48,6 @@ const about = {
   message:
     "My name is Mayank M. Patel. I have been a team player and leader in information and technology for more than 4.5 years and earned a Master of Science in Computer Science and Information Technology in 2018 from Sacred Heart University in Fairfield, Connecticut. My objective is to work in the field of software engineering as a Frontend Developer, Software Automation, or Manual Tester to fulfill my passion for giving back to the community. I enjoy learning about new technologies like cloud computing (AWS, Azure) and working on open source projects in my spare time.",
   resume: "https://drive.google.com/file/d/1jFdiLfDp3-ti7v9asyKm8qKxi2UBLksL/view?usp=sharing",
-  //"https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
