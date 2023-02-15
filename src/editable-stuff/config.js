@@ -99,7 +99,7 @@ const skills = {
     { name: "Cloud: AWS (Solution Architecture Certification Upcoming)", value: 57 },
     { name: "SQL, MySQL, NoSQL (MongoDB)", value: 79 },
     { name: "Git/Github", value: 85 },
-    { name: "Testing Tools: Appium, Selenium, Postman, Thunder Client, ADB Script, QXDM, QPST", value: 79 },
+    { name: "Testing Tools: Appium, Selenium, cucumber, Postman, Thunder Client, ADB Script, QXDM, QPST", value: 79 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
