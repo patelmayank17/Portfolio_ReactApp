@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Mayank M. Patel. I have been a team player and leader in information and technology for more than 4.5 years and earned a Master of Science in Computer Science and Information Technology in 2018 from Sacred Heart University in Fairfield, Connecticut. My objective is to work in the field of software engineering as a Frontend Developer, Software Automation, or Manual Tester to fulfill my passion for giving back to the community. I enjoy learning about new technologies like cloud computing (AWS, Azure) and working on open source projects in my spare time.",
-  resume: "https://drive.google.com/file/d/1jFdiLfDp3-ti7v9asyKm8qKxi2UBLksL/view?usp=sharing",
+  resume: require("../editable-stuff/resume.pdf") 
 };
 
 // PROJECTS SECTION
@@ -97,9 +97,9 @@ const skills = {
     { name: "JS: React & Redux & NodeJS & Express & JSON", value: 90 },
     { name: "Python: Django", value: 85 },
     { name: "Cloud: AWS (Solution Architecture Certification Upcoming)", value: 57 },
-    { name: "SQL & MySQL & NoSQL (MongoDB)", value: 79 },
+    { name: "SQL, MySQL, NoSQL (MongoDB)", value: 79 },
     { name: "Git/Github", value: 85 },
-    { name: "Testing Tools: Selenium, Postman, Thunder Client, ADB Script, QXDM, QPST", value: 79 },
+    { name: "Testing Tools: Appium, Selenium, Postman, Thunder Client, ADB Script, QXDM, QPST", value: 79 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
