@@ -127,7 +127,7 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Quality Assurance Analyst',
+      role: 'Software Engineer',
       companylogo: require('../assets/img/samsung.png'),
       date: 'Sept 2018 - Present'
     },
