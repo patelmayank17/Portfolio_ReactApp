@@ -92,13 +92,13 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "IDE: Visual Studio Code, Eclipse, Microsoft Visual Studio, IntelliJ IDEA", value: 80 },
+    { name: "IDE: Visual Studio Code, PyCharm, Eclipse, Microsoft Visual Studio, IntelliJ IDEA", value: 80 },
     { name: "HTML/CSS", value: 85 },
     { name: "JS: React & Redux & NodeJS & Express & JSON", value: 90 },
-    { name: "Python: Django", value: 85 },
+    { name: "Python: Django", value: 70 },
     { name: "Cloud: AWS (Solution Architecture Certification Upcoming)", value: 57 },
     { name: "SQL, MySQL, NoSQL (MongoDB)", value: 79 },
-    { name: "Git/Github", value: 85 },
+    { name: "Git/Github/GitLab", value: 85 },
     { name: "Testing Tools: Appium, Selenium, cucumber, Postman, Thunder Client, ADB Script, QXDM, QPST", value: 79 },
   ],
   softSkills: [
@@ -118,7 +118,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Front-End Developer or Software Quality Assurance Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Front-End Developer or Software Development Engineer in Test opportunity! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "patel_mayank17@yahoo.com",
 };
 
