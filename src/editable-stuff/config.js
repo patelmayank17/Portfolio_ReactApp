@@ -46,8 +46,8 @@ const about = {
   imageLink: require("../editable-stuff/mayank.png"),
   imageSize: 375,
   message:
-    "My name is Mayank M. Patel. I have been a team player and leader in information and technology for more than 4.5 years and earned a Master of Science in Computer Science and Information Technology in 2018 from Sacred Heart University in Fairfield, Connecticut. My objective is to work in the field of software engineering as a Frontend Developer, Software Automation, or Manual Tester to fulfill my passion for giving back to the community. I enjoy learning about new technologies like cloud computing (AWS, Azure) and working on open source projects in my spare time.",
-  resume: require("../editable-stuff/resume.pdf") 
+    "My name is Mayank M. Patel. I have been a team player and leader in information and technology for more than 4.5 years and earned a Master of Science in Computer Science and Information Technology in 2018 from Sacred Heart University in Fairfield, Connecticut. My objective is to work in the field of building and testing web/windows apps (Software Engineering/Software Automation Testing) to fulfill my passion for giving back to the community. I enjoy learning about new technologies like cloud computing (AWS, Azure) and working on open source projects in my spare time.",
+  resume: require("../editable-stuff/Resume.pdf") 
 };
 
 // PROJECTS SECTION
@@ -118,7 +118,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Front-End Developer or Software Development Engineer in Test opportunity! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Front-End/Back-End Developer or Software Development Engineer in Test opportunity! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "patel_mayank17@yahoo.com",
 };
 
